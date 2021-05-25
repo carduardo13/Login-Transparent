@@ -1,3 +1,3 @@
 # Login-Transparent
 
-# Tela de Login feita com css & html
+# Tela de Login feita com CSS & HTML
